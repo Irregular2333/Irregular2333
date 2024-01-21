@@ -1,34 +1,45 @@
-# Hello, here is Irregular.
-## I am a first-year college student from China, currently studying computer science.
+**Cause I really wanna stay at your house**<br>
+**And I hope this works out**<br>
+**But you know how much you broke me apart**<br>
+**I'm done with you, I'm ignoring you**<br>
+**I don't wanna know**<br>
+--*I Really Want to Stay At Your House, Rosa Walton / Hallie Coggins*
 
-------------------
+---
 
-## 💻 My Github
-![Irregular's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irregular2333&show_icons=true&theme=algolia)
-## 📓 Working On
- - [WearElements/腕上周期表](https://github.com/Irregular2333/WearElements)
- - Learn basic knowledge.
- - Wants to do something, but I‘m still thinking what to do.
+<img src="Files/A Beautiful Mind.jpg" alt="Your Image" style="border-radius: 10px; width: 240px;">
 
-## 🔡 Learning 
-![Kotlin](https://camo.githubusercontent.com/a4e0893c9019a9d09c5d3fdb8b3b7c3e2d254c6733b06cbe7b0248fd536141d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333746353246462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)
-![C](https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)
-![C++](https://camo.githubusercontent.com/f71e4ddb2fc978d7d11eeb519978027294ed3f68590176008e018bb0ef6886a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
-![HTML5](https://camo.githubusercontent.com/0798f3154dc1835afc2293d882b4ffd4655a1fab6c18c418f65b8e3c53bb7999/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![CSS3](https://camo.githubusercontent.com/3e655a70b25de562651c173ce2d0d79c2bfa7ca35a354e72e4989e53f1e24b3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-![JS](https://camo.githubusercontent.com/80c829bb2d082af35e0fe87415bdcc4cdad39f226432b7217f0861f8004132eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
+# Hello, here is Irregular
+一名大学在读计算机系学生，i人，不爱社交，爱好小众
 
-------------------
-## 👨‍🎓 About me
-- I like to play music games, such as the series of **Cytus** , especial the **Cytus α** in Nintendo Switch.
-- The other games deeply effected me are **To The Moon** and **Cyberpunk 2077**. This two games always show me that , **regret is regret after all, and it cannot be made up for in any way**.
-- There is such a sentence on Bilibili now , **"When I was young, I didn't know how good high school was, and I mistook college for a treasure"**. I don't usually like to socialize and I have a deep understanding of this sentence . I used to have a great deal of desire for college , but now I realize that the middle and high school of the past is gone , middle and high school carry so many good memories for me , I miss the time when I only needed to think about study, eat, sleep, and play games . **But in fact , what I miss is only that former self .**
+## 会什么语言？
+- ~~鉴定为编程弱智~~
+- 最基本的C和C++
+- 可能会一点的HTML，css和js
+- 初中在玩的iApp~~如今看来是个纯傻逼的行为~~
+- 在慢慢学习Kotlin
 
- <div align="center">
-<img src="https://raw.githubusercontent.com/Irregular2333/Irregular2333/main/Files/Middle.jpg?token=GHSAT0AAAAAACITUQZ2E2OKPWDCVFD25IYSZMBWHAA" width="700">
-</div>
+## 平时爱好？
+- 发呆 吃饭 睡觉 独处
+- 音游，最爱Cytus系列，包含一代二代以及NS独占的α；除此之外还有中二节奏，Phigros和PJSK这类玩的很少
+- 女神异闻录系列游戏，玩p5r入坑的，目前在重温p4g，2月还可以玩p3re
+- 搞机，包含各类电子产品吧，~~任天堂什么时候发下一代Switch我就破解这玩意玩玩~~，原本有个米板刷机玩，但是如今已经不在我手里了
+- 代码某种意义上来说也算吧，但是没以前的那种热情了
 
-- I am a bit confused about the future now . I haven't lived for a few years but feel a lot of regret . Many people who are younger than me start much higher than me, sometimes feeling like I am useless. Of course, most of the time I am in a state where I don't really like to talk or socialize . I don't like going out to play or anything like that . 99% of the games I usually play are single player games. Sometimes I feel very socially fearful and even have some social barriers . But no matter what , I feel very good about myself now . I don't have much feeling about dating , but more often than not , I like to be alone and daydream. In the past , I thought daydreaming was a waste of time , but now I feel that being able to daydream quietly is a good way to rest. I feel like I'm in college , but I feel tired every day . If you don't continue to chase , you will only fall behind . I don't want to play games like my roommate every day. When I actually start deciding what to do , I start to hesitate , maybe that's me .
-- I didn't have any good equipment before , so I hope to buy a lot after the college entrance examination . The fact is , many of the electronic products I bought after the college entrance examination exceeded those of my peers. This may be what we call childhood revenge consumption . But I increasingly feel that sometimes it's difficult to keep going on my own . There are many things I don't want to tell others, so I slowly digest them in my heart. I don't know how long I can hold on .
-- That's all for now. I don't know how I will feel when I see the pile of text I have written today. I hope to walk on like this .
-- 2023.12.19
+## 在忙什么？
+- 忙着发呆
+- 想做一些别的事情，但是可能也许暂时大概应该不知道做什么
+- 怀念过去。目前初中的照片已经整理完成，可以点击[这里](https://github.com/Irregular2333/Irregular-Memories-Middle)查看，很可惜我的高中并没留下什么照片
+- 用相机记录生活。可能正是因为高中没有留下什么照片，现在才开始愿意用手机相机记录下生活吧，~~后续可能会上传到Github吧~~
+- 每天感觉很忙......但是不知道自己在忙什么，也行是这样的吧。
+
+## 近况？
+- 2024打算简化自己的生活吧......拒绝不必要的社交，少说话，清理下自己的各种社交平台，等等等等
+- ~~其实可能也许大概应该近况也不怎么样吧~~
+
+## 怎样找到我？
+- 我的酷安：http://www.coolapk.com/u/26520274
+- 我的哔哩哔哩：https://space.bilibili.com/390148599
+- 我的邮箱：449683146@qq.
+
+最后编辑于2024.1.21
