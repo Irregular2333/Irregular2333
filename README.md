@@ -6,9 +6,6 @@
 --*I Really Want to Stay At Your House, Rosa Walton / Hallie Coggins*
 
 ---
-
-<img src="Files/A Beautiful Mind.jpg" alt="Your Image" style="border-radius: 10px; width: 240px;">
-
 # Hello, here is Irregular
 一名大学在读计算机系学生，i人，不爱社交，爱好小众
 
